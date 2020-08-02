@@ -1,3 +1,5 @@
+#Today is Day 1 and I have decided to start it off with JSON parsing basics
+
 import json
 import requests
 from urllib.request import urlopen
